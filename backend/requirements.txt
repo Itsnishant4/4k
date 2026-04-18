@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+torch
+torchvision
+torchaudio
+basicsr
+realesrgan
+Pillow
+opencv-python
+numpy<2.0
